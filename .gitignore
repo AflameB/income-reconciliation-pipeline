@@ -226,3 +226,4 @@ data/landing/*.csv
 target/
 dbt_packages/
 logs/
+data/break_manifest.csv
