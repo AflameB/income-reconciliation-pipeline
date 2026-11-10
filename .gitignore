@@ -227,3 +227,5 @@ target/
 dbt_packages/
 logs/
 data/break_manifest.csv
+
+scratch/
